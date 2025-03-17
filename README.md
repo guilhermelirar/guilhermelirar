@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**guilhermelirar/guilhermelirar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Guilherme Lira, a Computer Engineering student.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a [Chip8 emulator](https://github.com/guilhermelirar/Chip-8) in C++ for fun.
+- 🌱 I’m currently learning more about Python (Flask, Django), C/C++ and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelirar&show_icons=true&theme=radical" alt="Guilherme's GitHub stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelirar&layout=compact&theme=radical" alt="Top Languages" /> 
+</div> 
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermelirar&theme=radical" alt="GitHub Streak" /> 
+  <br> 
+</div> 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guilhermelirar.guilhermelirar)
+
+---
+
+### Connect with me:
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/guilherme-lira-ribeiro-96a562212/
