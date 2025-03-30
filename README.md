@@ -2,9 +2,6 @@
 
 I'm Guilherme Lira, a Computer Engineering student.
 
-- 🔭 I’m currently working on a [Chip8 emulator](https://github.com/guilhermelirar/Chip-8) in C++ for fun.
-- 🌱 I’m currently learning more about Python (Flask, Django), C/C++ and backend development.
-
 ---
 
 <div align="center"> 
