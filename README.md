@@ -14,8 +14,3 @@ I'm Guilherme Lira, a Computer Engineering student.
 </div> 
 
 ---
-
-### Connect with me:
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/guilherme-lira-ribeiro-96a562212/
